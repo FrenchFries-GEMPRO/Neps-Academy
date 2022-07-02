@@ -1,2 +1,6 @@
 .vscode
 *.exe
+
+in/
+deck_generator.py
+*.txt
