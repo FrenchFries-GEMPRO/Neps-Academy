@@ -112,7 +112,7 @@ int main() {
         }
 
         while (true) {
-            
+
             // jogar maior carta de mesmo número ou naipe
             card jogar = make_pair(0, 'A');
             for (auto it = hands[curr_player].begin(); it != hands[curr_player].end(); it++) {
